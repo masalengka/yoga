@@ -1,0 +1,38 @@
+{
+  "name": "MASALENGKA",
+  "short_name": "MASALENGKA",
+  "start_url": "https://masalengka.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Media yang memberikan informasi secara real, lengkap, dan terpercaya.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-FAy-yLztZEA/XRcKdlfGybI/AAAAAAAAAAk/KpGz_x_Wmc0WCMx_U-JlYCqXpgwaBZK6QCLcBGAs/s48/icon-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-FcjiYXNlg8w/XRcKmSp_GwI/AAAAAAAAAAo/BrqhqB_njJECLSqIBwD41n_wpp99RR1iQCLcBGAs/s72/icon-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-UppIDYgCu0E/XRcKsxPvicI/AAAAAAAAAAs/_xI01HmVCwAUBgUgjpIWcOIoKy4N0BbxgCLcBGAs/s96/icon-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-THWGPY55kJo/XRcK1XNOjbI/AAAAAAAAAA0/YG_VJWmCifgx8fsZZFRkRod21ucTRjUpgCLcBGAs/s144/icon-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-OqSeqOgTpMI/XRcK6mYrC6I/AAAAAAAAAA8/mnue_ti69d0ceX46hUaPh7Zw_oOaHTqOACLcBGAs/s168/icon-168x168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-VKI5kPw0Itc/XRcK_rdg-WI/AAAAAAAAABE/NiyURTuGRAAC7sU4mvlHlyOXi_G1GA4gQCLcBGAs/s192/icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Cd3DGdaCXJQ/XRcLKQYUHmI/AAAAAAAAABQ/PzRf-1hv2j8x2BNGunQ4cOimKrwLAlqfACLcBGAs/s512/icon-512x512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
